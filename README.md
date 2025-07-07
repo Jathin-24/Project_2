@@ -60,7 +60,9 @@ Download the dataset ZIP file.
 Extract it into the datasets/original folder inside your project directory so it looks like this:
 
 datasets/
+
 └── idc/
+
 └── original/
 
 Important:
