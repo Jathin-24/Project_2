@@ -8,10 +8,15 @@ It demonstrates how Convolutional Neural Networks (CNNs) can assist pathologists
 ## 📂 Project Structure
 
 Project_2/
+
 ├── Breast_Cancer_Classification_1.ipynb # Main Jupyter Notebook with all code and results
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project overview and instructions
+
 ├── .gitignore # Files excluded from Git
+
 └── datasets/ # (Place dataset here after download)
 
 
@@ -44,7 +49,7 @@ pip install -r requirements.txt
 ```
 4️⃣ Download the IDC Dataset
 This project uses the IDC_regular dataset from Kaggle:
-# https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
 # Steps to download:
 
